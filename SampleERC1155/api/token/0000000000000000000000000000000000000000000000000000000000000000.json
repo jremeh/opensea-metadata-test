@@ -13,12 +13,12 @@
     {
       "display_type": "number"
       "trait_type": "Fire",
-      "value": "1.5"
+      "value": 2
     },
     {
       "display_type": "boost_percentage"
       "trait_type": "Water",
-      "value": "10"
+      "value": 10
     }
   ]
 }
