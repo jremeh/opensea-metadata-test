@@ -1,0 +1,22 @@
+{
+  "description": "PowerUpItems - 1.5x",
+  "external_url": "https://forum.openzeppelin.com",
+  "image": "https://openmoji.org/data/color/svg/1FA99.svg",
+  "name": "1.5x Power Up",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "display_type": "number"
+      "trait_type": "Fire",
+      "value": "1.5"
+    },
+    {
+      "display_type": "boost_percentage"
+      "trait_type": "Water",
+      "value": "10"
+    }
+  ]
+}
