@@ -3,6 +3,8 @@
   "external_url": "https://forum.openzeppelin.com",
   "image": "https://openmoji.org/data/color/svg/1FA99.svg",
   "name": "1.5x Power Up",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0x13206beF17F1868240A3740450348429537cd19A"
   "attributes": [
     {
       "trait_type": "Rarity",
